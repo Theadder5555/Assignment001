@@ -1,0 +1,8 @@
+.triangle {
+    width: 0;
+    height: 0;
+    border-left: 6.125px solid transparent;
+    border-right: 6.125px solid transparent;
+    border-top: 10.875px solid #000000; /* Change the color and size as needed */
+  }
+  
